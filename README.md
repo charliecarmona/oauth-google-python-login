@@ -27,7 +27,7 @@ un punto muy importante en este caso el proveedor es google pero tambien se podr
 
 **Google**
 
-Ir a [Google API Console](https://console.developers.google.com/apis/credentials) El primer paso es registrarnos con nuetro correo posteriormente crear un proyecto posteriormente configurar permisos de consentimiento guardar y por ultimo en esta parte en crear credenciales seleccionar "OAuth cliente Id" para generar tokens de acceso al API.
+Ir a [Google API Console](https://console.developers.google.com/apis/credentials) El primer paso es registrarnos con nuestro correo posteriormente crear un proyecto posteriormente configurar permisos de consentimiento guardar y por ultimo en esta parte en crear credenciales seleccionar "OAuth cliente Id" para generar tokens de acceso al API.
 
 ![3](http://i.imgur.com/1Gdtsmv.png)
 
